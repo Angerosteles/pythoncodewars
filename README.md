@@ -1,2 +1,5 @@
 # pythoncodewars
-kyo haaaaayaaaaa
+kyu haaaaayaaaaa
+
+
+Just some stuff from learning phase
